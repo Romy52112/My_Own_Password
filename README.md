@@ -7,4 +7,4 @@ For my character set: https://www.w3schools.com/html/html_charset.asp
 
 Deployed Url: https://romy52112.github.io/My_Own_Password/
 
-Screenshot: ![alt text](<Screenshot 2024-02-19 013446.png>)
+Screenshot:![alt text](image.png)
