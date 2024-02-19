@@ -5,6 +5,7 @@
         number: getRandomNumber,
         symbol: getRandomSymbol,
 }
+// I use character code, instead of putting arrays
 function getRandomLower(){
     return String.fromCharCode(Math.floor(Math.random() * +26) + 97);
 }
